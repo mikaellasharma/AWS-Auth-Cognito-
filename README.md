@@ -15,7 +15,7 @@ This app serves as a basic foundation for implementing authentication features i
 
 The project was bootstrapped with Create React App.
 
-**npm start**
+[ npm start ]
 To run the app in development mode, use the command npm start. It will start the app on http://localhost:3000 in your browser. Edits to the code will trigger a reload, and lint errors will be shown in the console.
 
 **npm test**
