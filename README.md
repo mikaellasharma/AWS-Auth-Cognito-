@@ -1,6 +1,6 @@
 # AWS-Auth-Cognito-
 
-##Masters Final Project 464##
+## Masters Final Project 464 ##
 
 The starter ReactJS UI you have is for creating a serverless authentication app in React using AWS Amplify and Cognito. 
 
